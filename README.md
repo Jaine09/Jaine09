@@ -1,8 +1,7 @@
 # Sobre mim 👩
 
 - Nome: Jaíne Jesus Costa
-- Nascimento: 09/11/2005 🎂
-- Passatempos: ler, assitir série, fazer compras 🛍
+- Nascimento: 09/11/2005 
 
 ## Habilidades 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
