@@ -1,7 +1,7 @@
-# Sobre mim 👩
+# Sobre mim 👩🏾‍🎓
 
-- Nome: Jaíne Jesus Costa
 - Ingressei na área da tecnologia com 16 anos, e tenho o desejo de atuar na área de desenvolvimento web e análise de dados.
+- Ensino Superior: Ánalise e Desenvolvimento de Sistemas - 2°Semestre
 
 ## Hard Skills 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
