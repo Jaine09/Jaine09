@@ -1,23 +1,22 @@
 # Sobre mim 👩🏾‍🎓
 
-- Ingressei na área da tecnologia com 16 anos, e tenho o desejo de atuar na área de desenvolvimento web e análise de dados.
-- Ensino Superior: Ánalise e Desenvolvimento de Sistemas - 2°Semestre
-
+- Estudante de Análise e Desenvolvimento de Sistemas, atualmente estagiária em Desenvolvimento de Testes Automatizados. Experiência com automação de testes para APIs REST utilizando Java, Cucumber, REST Assured, JUnit e Maven. Conhecimento em Git, Postman, Swagger e metodologias ágeis.
+  
 ## Hard Skills 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Conhecimento básico 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-
-#### adquirindo conhecimento 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Soft Skills 😊
 - Comunicativa
